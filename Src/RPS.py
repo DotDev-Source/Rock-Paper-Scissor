@@ -1,3 +1,6 @@
+#Made by MiniatureDev
+#License: CC0
+
 
 # import module 
 
